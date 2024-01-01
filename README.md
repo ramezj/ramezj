@@ -1,6 +1,6 @@
-### Hello there 👋
-I'm currently Working on :
-- https://lunarfeed.com
+### Hello there.
+Currently Working on :
+- https://lunarfeed.co
 
 <!--
 **ramezj/ramezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
