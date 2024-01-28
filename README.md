@@ -1,5 +1,4 @@
 ### Hello there.
-Currently Working on :
 - https://uselunar.xyz
 
 <!--
