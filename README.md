@@ -1,4 +1,4 @@
-### Hello there.
+### Currently working on astralics & a realestate project.
 - https://astralics.com
 
 <!--
