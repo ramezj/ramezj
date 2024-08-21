@@ -1,6 +1,6 @@
 ### Hello World
 - https://astralics.com
-- https://hirehollo.com
+- https://careertella.com
 
 <!--
 **ramezj/ramezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
