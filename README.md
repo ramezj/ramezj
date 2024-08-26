@@ -1,5 +1,5 @@
 ### i write javascript.
-- https://heliup.me
+- https://heliup.xyz
 - https://astralics.com
 
 <!--
