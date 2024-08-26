@@ -1,6 +1,6 @@
 ### i write javascript.
-- https://astralics.com
 - https://heliup.me
+- https://astralics.com
 
 <!--
 **ramezj/ramezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
