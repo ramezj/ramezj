@@ -1,4 +1,4 @@
-### i do javascript.
+### i write javascript.
 - https://astralics.com
 - https://heliup.me
 
