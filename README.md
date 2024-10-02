@@ -1,6 +1,5 @@
-### i write javascript.
-- https://heliup.xyz
-- https://astralics.com
+### i write code.
+- https://heliup.xyz ( under maintenance )
 
 <!--
 **ramezj/ramezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
