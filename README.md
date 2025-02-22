@@ -1,4 +1,4 @@
-i like javascript
+i like typescript
 
 <!--
 **ramezj/ramezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
